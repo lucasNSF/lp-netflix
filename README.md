@@ -4,7 +4,7 @@ Decidi fazer um clone da landing page da famosa Netflix para treinar minhas habi
 
 <div align="center">
   <h3>Link do Projeto 👇🏽</h3>
-  meu link aqui
+  https://lucasnsf.github.io/lp-netflix/
 </div>
 
 ## Tecnologias Utilizadas 👨🏽‍💻
