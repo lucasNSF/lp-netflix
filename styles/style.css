@@ -69,7 +69,8 @@ nav {
 .select-lang {
   margin-right: 3vw;
   height: 6.5vh;
-  width: 8.5vw;
+  width: 50%;
+  max-width: 100px;
   padding: .3rem;
   background-color: rgba(0, 0, 0, 0.4);
   color: white;

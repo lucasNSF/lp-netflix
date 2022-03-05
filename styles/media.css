@@ -1,0 +1,134 @@
+@media (max-width: 2560px) {
+  html {
+    font-size: 100%;
+  }
+
+  nav {
+    width: 20%;
+  }
+
+  .select-lang {
+    max-width: 200px;
+  }
+
+  #netflix-logo {
+    max-width: 850px;
+  }
+}
+
+@media (max-width: 1440px) {
+  html {
+    font-size: 66%;
+  }
+
+  #netflix-logo {
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 1024px) {
+  form {
+    width: 60%;
+  }
+
+  nav {
+    width: 30%;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 970px) {
+  form {
+    width: 80%;
+    margin-left: 6vw;
+  }
+}
+
+@media (max-width: 840px) {
+  h1 {
+    font-size: 4.5rem;
+  }
+
+  h2 {
+    font-size: 2.2rem;
+  }
+
+  h3 {
+    font-size: 1.7rem;
+  }
+}
+
+@media (max-width: 425px) {
+  html {
+    font-size: 40%;
+  }
+
+  nav {
+    width: 60%;
+  }
+
+  #entrar-btn {
+    padding: 1.2rem 0.9rem;
+    font-weight: bold;
+    font-family: "Helvetica";
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 3vh 0;
+  }
+
+  input {
+    width: 80%;
+    padding: 1.5rem;
+    font-size: 1.9rem;
+    margin-left: 0;
+  }
+
+  h3 {
+    width: 70%;
+    font-size: 1.9rem;
+  }
+
+  input[type="submit"] {
+    width: 35%;
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+
+  .main-content {
+    margin-top: 8vh;
+  }
+}
+
+@media (max-width: 375px) {
+  nav {
+    width: 80%;
+    margin-right: 8vw;
+  }
+
+  #netflix-logo {
+    width: 50%;
+    margin-left: 5vw;
+  }
+
+  h3 {
+    margin-top: 5rem;
+  }
+}
+
+@media (max-width: 320px) {
+  html {
+    font-size: 30%;
+  }
+
+  #entrar-btn {
+    padding: 1.8rem 0.9rem;
+  }
+}
