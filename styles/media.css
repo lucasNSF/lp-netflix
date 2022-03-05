@@ -107,7 +107,7 @@
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 402px) {
   nav {
     width: 80%;
     margin-right: 8vw;
@@ -123,7 +123,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 372px) {
   html {
     font-size: 30%;
   }
